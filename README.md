@@ -1,6 +1,9 @@
 # DS203-IIT-Bombay
-DS203 project and assignments  
+## Project Code Explanation 
 [![Project Code Explanation](https://github.com/rishav1122/DS203-IIT-Bombay/blob/main/project%20title.png)](https://drive.google.com/file/d/1bExwnU_ZUwkCfQMnWvf4Sq8YbzStVdET/view?usp=sharing)
+
+## [Link to all the Datasets used](https://drive.google.com/drive/folders/1Pve9a5HRI-K0sMGpliUeqmY5TKuWKvMV?usp=sharing)
+
 ## Short term Bitcoin Price Prediction and Analysis Using Machine Learning
 Abstract—Bitcoin is a decentralized crypto-currency, which is a type of digital asset that provides the basis for peer-to-peer financial transactions based on blockchain technology. One of the major problems with decentralized cryptocurrencies is price volatility, which indicates the need for studying the underlying price model. Moreover, Bitcoin prices exhibit non-stationary behavior, where the statistical distribution of data changes over time. This paper demonstrates high-performance machine learning-based classification and regression models for predicting Bitcoin price movements and prices in short term. We found that ARIMA outperforms other machine learning models tested. Deep learning solutions like Long short Term Networks were also explored.
 
